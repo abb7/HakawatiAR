@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tenthPage" size="1.000000 0.750000" />
+    <ImageTarget name="ninthPage" size="1.000000 0.750000" />
+    <ImageTarget name="eighthPage" size="1.000000 0.750000" />
+    <ImageTarget name="SeventhPage" size="1.000000 0.750000" />
+    <ImageTarget name="SixthPage" size="1.000000 0.750000" />
+    <ImageTarget name="FifthPage" size="1.000000 0.750000" />
+    <ImageTarget name="FourthPage" size="1.000000 0.750000" />
+    <ImageTarget name="firstPage" size="1.000000 0.750000" />
+    <ImageTarget name="ranam-HD" size="1.000000 1.000000" />
+    <ImageTarget name="ranam" size="1.000000 0.666667" />
+  </Tracking>
+</QCARConfig>

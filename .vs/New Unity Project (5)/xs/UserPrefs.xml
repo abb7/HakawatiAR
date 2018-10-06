@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4FB7A59B-795D-546C-5482-7DE6F6532B31}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs">
+    <Files>
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="140" Column="25" />
+      <File FileName="Assets/kickBall.cs" Line="14" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
